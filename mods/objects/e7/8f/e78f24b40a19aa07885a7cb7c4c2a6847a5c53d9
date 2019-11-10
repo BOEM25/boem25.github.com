@@ -1,0 +1,8 @@
+{
+    "internalName": "omw.m4a1ammo",
+    "displayName": "5.56x45mm NATO 30-round Magazine",
+    "numBullets": 1,
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "reloadTime": 4
+}
