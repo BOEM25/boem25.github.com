@@ -1,0 +1,41 @@
+{
+    "internalName": "omw.sks",
+    "displayName": "SKS",
+    "modelName": "omw.guns.sks",
+    "weaponType": "carbine",
+    "gunDamage": 6.5,
+    "gunDamageHeadshotBonus": 0,
+    "roundsPerMin": 450,
+    "allowSprintFiring": false,
+    "allowEmptyMagazines": true,
+    "recoilPitch": 6.0,
+    "recoilYaw": 1.5,
+    "randomRecoilPitch": 5.75,
+    "randomRecoilYaw": 1.25,
+
+    "fireModes": ["semi"],
+    "acceptedAmmo": ["omw.sksammo", "omw.akmammo", "omw.grozaammo"],
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "omw.sks.shoot",
+                "soundNameDistant": "omw.sks.distant",
+                "soundRange": 192,
+                "soundMaxRange": 256,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "omw.generic.reload"
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "sight": [
+            "omw.reflex"
+        ]
+    }
+}

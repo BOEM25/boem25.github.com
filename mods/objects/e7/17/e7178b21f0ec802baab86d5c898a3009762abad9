@@ -1,0 +1,51 @@
+{
+    "displayName": "Five Seven",
+    "internalName": "omw.fiveseven",
+    "gunDamage": 4.5,
+    "roundsPerMin": 450,
+    "allowSprintFiring": false,
+    "allowEmptyMagazines": true,
+    "recoilPitch": 5.75,
+    "recoilYaw": 0.25,
+    "randomRecoilPitch": 0.25,
+    "randomRecoilYaw": 0.25,
+    "weaponType": "pistol",
+    "acceptedAmmo": ["omw.fivesevenammo"],
+    "modelName": "omw.guns.fiveseven",
+    "fireModes": ["semi"],
+    "recoilPitch": 7.75,
+    "recoilYaw": 1.0,
+    "randomRecoilPitch": 0.5,
+    "randomRecoilYaw": 0.5,
+"bulletSpread": 0.6,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "omw.fiveseven.shoot",
+                "soundNameDistant": "omw.fiveseven.distant",
+                "soundRange": 160,
+                "soundMaxRange": 192,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "omw.generic.reload"
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponUnload",
+                "soundName": "omw.generic.unload"
+            }
+        ],
+        "weaponLoad": [
+            {
+                "soundEvent": "weaponLoad",
+                "soundName": "omw.generic.load"
+            }
+        ]
+    }
+}
