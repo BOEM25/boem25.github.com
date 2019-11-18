@@ -47,3 +47,13 @@ li a {
 li a:hover {
   background: green;
 }
+
+img {
+  float: right;
+  height: 25%;
+  width: 25%;
+}
+
+p {
+  cursor: default;
+}
