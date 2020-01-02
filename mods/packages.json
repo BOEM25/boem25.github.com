@@ -1,12 +1,12 @@
 {
-"minimumVersion" : 1,
-"packages" : [
-{
-"title" : "Mods",
-"name" : "Modpack 1.12.2",
-"version" : "2019-13-15-41-33",
-"location" : "modpack-1.12.2.json",
-"priority" : 0
-}
-]
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Mods",
+      "name" : "Modpack 1.12.2",
+      "version" : "2020-01-02-22-09-21",
+      "location" : "modpack-1.12.2.json",
+      "priority" : 0
+    }
+  ]
 }

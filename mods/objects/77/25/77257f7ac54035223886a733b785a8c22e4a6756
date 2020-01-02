@@ -2,7 +2,7 @@
 
 general {
     # How long the respawn button should be disabled for (in seconds). [range: 0 ~ 60, default: 1]
-    I:"Respawn Timer"=7
+    I:"Respawn Timer"=5
 }
 
 

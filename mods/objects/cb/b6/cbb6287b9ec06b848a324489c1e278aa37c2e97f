@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ModList>
+<Mod name="mcp">mcp</Mod>
+<Mod name="FML">FML</Mod>
+<Mod name="forge">forge</Mod>
+<Mod name="kinetic anti-cheat">kinetic anti-cheat</Mod>
+<Mod name="minecraft">minecraft</Mod>
+<Mod name="foamfixcore">foamfixcore</Mod>
+
+<Mod name="tnt_utilities_core">tnt_utilities_core</Mod>
+
+<Mod name="itemblacklist">itemblacklist</Mod>
+
+<Mod name="flintblock">flintblock</Mod>
+
+<Mod name="aiimprovements">aiimprovements</Mod>
+
+<Mod name="jei">jei</Mod>
+
+<Mod name="appleskin">appleskin</Mod>
+
+<Mod name="toughnessbar">toughnessbar</Mod>
+
+<Mod name="carrots">carrots</Mod>
+
+<Mod name="armorunder">armorunder</Mod>
+
+<Mod name="skillable">skillable</Mod>
+
+<Mod name="autoreglib">autoreglib</Mod>
+
+<Mod name="ichunutil">ichunutil</Mod>
+
+<Mod name="backtools">backtools</Mod>
+
+<Mod name="baubles">baubles</Mod>
+
+<Mod name="bibliocraft">bibliocraft</Mod>
+
+<Mod name="bookshelf">bookshelf</Mod>
+
+<Mod name="buildcraftlib">buildcraftlib</Mod>
+
+<Mod name="buildcraftcore">buildcraftcore</Mod>
+
+<Mod name="buildcraftbuilders">buildcraftbuilders</Mod>
+
+<Mod name="buildcrafttransport">buildcrafttransport</Mod>
+
+<Mod name="buildcraftsilicon">buildcraftsilicon</Mod>
+
+<Mod name="crafttweaker">crafttweaker</Mod>
+
+<Mod name="buildcraftcompat">buildcraftcompat</Mod>
+
+<Mod name="buildcraftenergy">buildcraftenergy</Mod>
+
+<Mod name="buildcraftfactory">buildcraftfactory</Mod>
+
+<Mod name="buildcraftrobotics">buildcraftrobotics</Mod>
+
+<Mod name="camera">camera</Mod>
+
+<Mod name="casinocraft">casinocraft</Mod>
+
+<Mod name="cfm">cfm</Mod>
+
+<Mod name="chunkpregenerator">chunkpregenerator</Mod>
+
+<Mod name="clumps">clumps</Mod>
+
+<Mod name="codechickenlib">codechickenlib</Mod>
+
+<Mod name="craftablesaddles">craftablesaddles</Mod>
+
+<Mod name="ctgui">ctgui</Mod>
+
+<Mod name="crafttweakerjei">crafttweakerjei</Mod>
+
+<Mod name="customspawner">customspawner</Mod>
+
+<Mod name="customnpcs">customnpcs</Mod>
+
+<Mod name="durabilitynotifier">durabilitynotifier</Mod>
+
+<Mod name="easterrabbits">easterrabbits</Mod>
+
+<Mod name="fastleafdecay">fastleafdecay</Mod>
+
+<Mod name="flansmod">flansmod</Mod>
+
+<Mod name="flansmodapocalypse">flansmodapocalypse</Mod>
+
+<Mod name="foamfix">foamfix</Mod>
+
+<Mod name="foamflower">foamflower</Mod>
+
+<Mod name="freelook">freelook</Mod>
+
+<Mod name="fw">fw</Mod>
+
+<Mod name="gamestages">gamestages</Mod>
+
+<Mod name="durabilityviewer">durabilityviewer</Mod>
+
+<Mod name="globalxp">globalxp</Mod>
+
+<Mod name="hidenames">hidenames</Mod>
+
+<Mod name="holdyerbreath">holdyerbreath</Mod>
+
+<Mod name="hopperducts">hopperducts</Mod>
+
+<Mod name="incontrol">incontrol</Mod>
+
+<Mod name="inventorytweaks">inventorytweaks</Mod>
+
+<Mod name="chaincraft">chaincraft</Mod>
+
+<Mod name="jepb">jepb</Mod>
+
+<Mod name="jph">jph</Mod>
+
+<Mod name="jecalculation">jecalculation</Mod>
+
+<Mod name="jeresources">jeresources</Mod>
+
+<Mod name="keywizard">keywizard</Mod>
+
+<Mod name="kiln">kiln</Mod>
+
+<Mod name="landmanager">landmanager</Mod>
+
+<Mod name="librarian">librarian</Mod>
+
+<Mod name="locks">locks</Mod>
+
+<Mod name="loyaltymedals">loyaltymedals</Mod>
+
+<Mod name="lumberjack">lumberjack</Mod>
+
+<Mod name="mapwriter">mapwriter</Mod>
+
+<Mod name="mendingfix">mendingfix</Mod>
+
+<Mod name="mcef">mcef</Mod>
+
+<Mod name="minetraps">minetraps</Mod>
+
+<Mod name="mocreatures">mocreatures</Mod>
+
+<Mod name="modnametooltip">modnametooltip</Mod>
+
+<Mod name="modulus">modulus</Mod>
+
+<Mod name="morefovsettings">morefovsettings</Mod>
+
+<Mod name="netherendingores">netherendingores</Mod>
+
+<Mod name="netherportalfix">netherportalfix</Mod>
+
+<Mod name="recipehandler">recipehandler</Mod>
+
+<Mod name="ordinarycoins">ordinarycoins</Mod>
+
+<Mod name="railcraft">railcraft</Mod>
+
+<Mod name="realdrops">realdrops</Mod>
+
+<Mod name="rebind_narrator">rebind_narrator</Mod>
+
+<Mod name="regen_controll">regen_controll</Mod>
+
+<Mod name="respawntimer">respawntimer</Mod>
+
+<Mod name="rustic">rustic</Mod>
+
+<Mod name="sbmcharcoalblock">sbmcharcoalblock</Mod>
+
+<Mod name="entityarmorsetter">entityarmorsetter</Mod>
+
+<Mod name="parry">parry</Mod>
+
+<Mod name="silentlib">silentlib</Mod>
+
+<Mod name="silk">silk</Mod>
+
+<Mod name="harvest">harvest</Mod>
+
+<Mod name="simplytea">simplytea</Mod>
+
+<Mod name="smoothbedrock">smoothbedrock</Mod>
+
+<Mod name="soundfilters">soundfilters</Mod>
+
+<Mod name="soundsystemreloader">soundsystemreloader</Mod>
+
+<Mod name="spartanweaponry">spartanweaponry</Mod>
+
+<Mod name="stackable">stackable</Mod>
+
+<Mod name="stg">stg</Mod>
+
+<Mod name="tnt_utilities">tnt_utilities</Mod>
+
+<Mod name="toughasnails">toughasnails</Mod>
+
+<Mod name="trade">trade</Mod>
+
+<Mod name="uteamcore">uteamcore</Mod>
+
+<Mod name="unforgivingvoid">unforgivingvoid</Mod>
+
+<Mod name="unloader">unloader</Mod>
+
+<Mod name="imvoice">imvoice</Mod>
+
+<Mod name="wearablebackpacks">wearablebackpacks</Mod>
+
+<Mod name="webdisplays">webdisplays</Mod>
+
+<Mod name="wolfarmor">wolfarmor</Mod>
+
+<Mod name="woolintostrings">woolintostrings</Mod>
+
+<Mod name="worldedit">worldedit</Mod>
+
+<Mod name="wts">wts</Mod>
+
+<Mod name="zenny3d.saturationoverflow">zenny3d.saturationoverflow</Mod>
+
+<Mod name="ladylib">ladylib</Mod>
+
+<Mod name="gaspunk">gaspunk</Mod>
+
+<Mod name="lemonlib">lemonlib</Mod>
+
+<Mod name="permafrost">permafrost</Mod>
+
+<Mod name="trapexpansion">trapexpansion</Mod>
+</ModList>
