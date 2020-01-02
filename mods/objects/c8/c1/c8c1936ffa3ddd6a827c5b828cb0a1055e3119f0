@@ -1,8 +1,0 @@
-{
-    "internalName": "omw.akmammo",
-    "displayName": "7.62x39mm 30-round Magazine",
-    "numBullets": 1,
-    "ammoCapacity": 30,
-    "magazineCount": 1,
-    "reloadTime": 4
-}

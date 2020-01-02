@@ -1,8 +1,0 @@
-{
-    "internalName": "omw.scarlammo",
-    "displayName": "5.56x45mm NATO 40-round Magazine",
-    "numBullets": 1,
-    "ammoCapacity": 40,
-    "magazineCount": 1,
-    "reloadTime": 6
-}
