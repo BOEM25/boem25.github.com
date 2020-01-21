@@ -1,5 +1,14 @@
 body {
   text-align: center;
-  background-image: url(background.png);
+  background-image: url('background-blurred.png');
+  background-repeat: no-repeat;
+  background-color: black;
   color: white;
+  font-style: monospace;
+}
+
+p {
+  font-size: 64px;
+  color: white;
+  transform: translateY(15rem);
 }
